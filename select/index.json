@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "このまま君だけを奪い去りたい (DEEN The Best DX)",
+  "base_artist": "DEEN",
+  "createdAt": "2026-02-14T14:11:29.733206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい (Ballads in Love)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/01_このまま君だけを奪い去りたい_(Ballads_in_Love)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい(DEEN The Best ｷｾｷ)",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/02_このまま君だけを奪い去りたい(DEEN_The_Best_キセキ)_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/03_このまま君だけを奪い去りたい_Ms.OOJA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい",
+      "artist": "DEEN",
+      "has_synced": true,
+      "path": "select/04_このまま君だけを奪い去りたい_DEEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい (DEEN The Best DX)",
+      "artist": "Deen",
+      "has_synced": false,
+      "path": "select/05_このまま君だけを奪い去りたい_(DEEN_The_Best_DX)_Deen.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい (DEEN The Best DX) -off vocal version-",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/06_このまま君だけを奪い去りたい_(DEEN_The_Best_DX)_-off_vocal_version-_DEEN.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい",
+      "artist": "Han-Kun",
+      "has_synced": true,
+      "path": "select/07_このまま君だけを奪い去りたい_Han-Kun.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい",
+      "artist": "織田哲郎",
+      "has_synced": false,
+      "path": "select/08_このまま君だけを奪い去りたい_織田哲郎.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい",
+      "artist": "WANDS",
+      "has_synced": false,
+      "path": "select/09_このまま君だけを奪い去りたい_WANDS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい - Konomama Kimidakeo Ubaisaritai",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/10_このまま君だけを奪い去りたい_-_Konomama_Kimidakeo_Ubaisaritai_Ms.OOJA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "このまま君だけを奪い去りたい -Triangle Cover Version-",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/11_このまま君だけを奪い去りたい_-Triangle_Cover_Version-_DEEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "このまま君だけを奪い去りたい",
+      "artist": "DEEN",
+      "has_synced": false,
+      "path": "select/pl_01_このまま君だけを奪い去りたい_DEEN.txt"
+    }
+  ]
+}
